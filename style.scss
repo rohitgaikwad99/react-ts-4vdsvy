@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+h1,
+p {
+  font-family: Lato;
+}
+
+button {
+  width: 30%;
+  height: 40px;
+  border: 2px solid #fc732f;
+  border-radius: 4px;
+  color: #fc732f;
+  background: #fff;
+  font-weight: 700;
+  font-size: 16px;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.btn-primary {
+  color: #fff;
+  background: #fc732f;
+}
+
+.btn-disabled {
+  color: #757575;
+  border-color: #d5d5d5;
+}

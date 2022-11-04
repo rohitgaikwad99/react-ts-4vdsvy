@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "eventId": 1,
+      "eventLogo": "event-1.png",
+      "eventName": "Understanding Color Theory: The Color Wheel and Finding the Importance.",
+      "eventDate": "21 Sep 2020",
+      "totalSeats": 100,
+      "bookedSeats": 100
+    },
+    {
+      "eventId": 2,
+      "eventLogo": "event-2.png",
+      "eventName": "RGD Design Thinkers",
+      "eventDate": "21 Sep 2020",
+      "totalSeats": 100,
+      "bookedSeats": 89
+    },
+    {
+      "eventId": 3,
+      "eventLogo": "event-3.png",
+      "eventName": "What Design Can Do",
+      "eventDate": "21 Sep 2020",
+      "totalSeats": 800,
+      "bookedSeats": 676
+    },
+    {
+      "eventId": 4,
+      "eventLogo": "event-4.png",
+      "eventName": "Perth UX Camp",
+      "eventDate": "21 Sep 2020",
+      "totalSeats": 500,
+      "bookedSeats": 453
+    },
+    {
+      "eventId": 5,
+      "eventLogo": "event-5.png",
+      "eventName": "Sofia Design",
+      "eventDate": "21 Sep 2020",
+      "totalSeats": 500,
+      "bookedSeats": 434
+    },
+    {
+      "eventId": 6,
+      "eventLogo": "event-6.png",
+      "eventName": "Design Indaba Conference",
+      "eventDate": "21 Sep 2020",
+      "totalSeats": 800,
+      "bookedSeats": 716
+    },
+    {
+      "eventId": 7,
+      "eventLogo": "event-7.png",
+      "eventName": "Typo Berlin",
+      "eventDate": "21 Sep 2020",
+      "totalSeats": 600,
+      "bookedSeats": 596
+    },
+    {
+      "eventId": 8,
+      "eventLogo": "event-8.png",
+      "eventName": "AIGI Design Conference",
+      "eventDate": "21 Sep 2020",
+      "totalSeats": 100,
+      "bookedSeats": 50
+    }
+  ]
+}
